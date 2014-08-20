@@ -1,0 +1,4 @@
+template:
+  include: true
+  theme:
+    prototype: true

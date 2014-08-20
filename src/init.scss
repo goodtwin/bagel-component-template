@@ -1,0 +1,5 @@
+@import "template";
+
+@if use(template) {
+  @include template-src;
+}

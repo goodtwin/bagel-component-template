@@ -1,0 +1,34 @@
+{
+  "name": "bagel-component-template",
+  "version": "0.1.0",
+  "title": "Bagel UI - Component Template",
+  "description": "Template for creating components for Bagel UI",
+  "homepage": "http://goodtwin.co",
+  "contributors": [
+    "Andrew Wirick <andrew@goodtwin.co>",
+    "Greg Thompson <greg@goodtwin.co>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodtwin/bagel-component-template.git"
+  },
+  "dependencies": {
+    "bagel-functions" : "git://github.com/goodtwin/bagel-functions.git#v0.1.5",
+    "bagel-theme-prototype" : "git://github.com/goodtwin/bagel-theme-prototype.git#v0.1.2",
+    "bagel-styleguide": "git://github.com/goodtwin/bagel-styleguide.git#v0.1.1"
+  },
+  "devDependencies": {
+    "grunt-shared-config": "~0.3.7",
+    "assemble": "~0.4.41",
+    "grunt": "~0.4.4",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-myth": "~0.1.1",
+    "load-grunt-tasks": "~0.4.0"
+  }
+}
