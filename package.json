@@ -1,6 +1,6 @@
 {
   "name": "bagel-component-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Bagel UI - Component Template",
   "description": "Template for creating components for Bagel UI",
   "homepage": "http://goodtwin.co",
@@ -14,7 +14,7 @@
     "url": "git://github.com/goodtwin/bagel-component-template.git"
   },
   "dependencies": {
-    "bagel-functions" : "git://github.com/goodtwin/bagel-functions.git#v0.1.5",
+    "bagel-functions" : "git://github.com/goodtwin/bagel-functions.git#v0.1.6",
     "bagel-theme-prototype" : "git://github.com/goodtwin/bagel-theme-prototype.git#v0.1.2",
     "bagel-styleguide": "git://github.com/goodtwin/bagel-styleguide.git#v0.1.1"
   },
